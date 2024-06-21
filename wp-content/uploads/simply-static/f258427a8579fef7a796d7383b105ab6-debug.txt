@@ -1,0 +1,10 @@
+[2024-06-21 17:05:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/teste01wp
+[2024-06-21 17:05:42] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/teste01wp
+[2024-06-21 17:05:43] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/teste01wp
+[2024-06-21 17:05:44] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/teste01wp
+[2024-06-21 17:13:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/teste01wp
+[2024-06-21 17:13:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/teste01wp
+[2024-06-21 17:15:23] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/teste01wp
+[2024-06-21 17:15:23] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/teste01wp
+[2024-06-21 17:15:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/teste01wp
+[2024-06-21 17:15:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/teste01wp
